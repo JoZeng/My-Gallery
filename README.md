@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Recipe-Blog</h1>
+<h1 align="center">My Gallery</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://recipe-blog-lemon.vercel.app/">
+    <a href="https://my-gallery-olive.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/JoZeng/Recipe-Blog">
+    <a href="https://github.com/JoZeng/My-Gallery">
       Solution
     </a>
     <span> | </span>
@@ -37,10 +37,10 @@
 ## Overview
 
 1440x1080:
-![screenshot](https://live.staticflickr.com/65535/52736790474_f2d564acd5.jpg)
+![screenshot](https://live.staticflickr.com/65535/52741309595_55112da8f3.jpg)
 
 374x774:
-![screenshot](https://live.staticflickr.com/65535/52736790464_6b44c818d6_w.jpg)
+![screenshot](https://live.staticflickr.com/65535/52741152079_f764d57f85_w.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
