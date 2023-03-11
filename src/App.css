@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  padding: 5% 17% 2% 17%;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 375px) {
+  .app {
+    padding: 2% 2% 3% 2%;
+  }
+}

@@ -1,0 +1,84 @@
+.header-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4rem;
+  width: 100%;
+}
+
+.header-card--profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-card--profile img {
+  width: 30%;
+  border-radius: 1.6rem;
+}
+
+.header-card--profile h3 {
+  display: flex;
+  text-align: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  color: #4e5150;
+}
+
+.header-card--profile p {
+  font-family: "Montserrat";
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  color: #a9a9a9;
+}
+
+.header-card--section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+  flex-wrap: wrap;
+}
+
+.header-card--section__postfollowerfollowing {
+  width: 100px;
+  height: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #e5e5e5;
+  border-radius: 1.2rem;
+  gap: 0.4rem;
+}
+
+.header-card--section__postfollowerfollowing p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  color: #4e5150;
+}
+
+.header-card--section__postfollowerfollowing span {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  color: #bdbdbd;
+}
+
+@media screen and (max-width: 375px) {
+}
