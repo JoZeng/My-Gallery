@@ -1,5 +1,5 @@
 import "./styles.css";
-import profilephoto from "../../assets/profilephoto.png";
+import profilephoto from "../../assets/profilePhoto.png";
 
 export default function Header() {
   return (
